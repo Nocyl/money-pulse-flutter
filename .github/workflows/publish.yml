@@ -14,7 +14,6 @@ jobs:
         with:
           flutter-version: '3.22.0'
           channel: 'stable'
-      - name: Install dependencies
-        run: flutter pub get
+      - uses: dart-lang/setup-dart@v1
       - name: Publish
         run: flutter pub publish --force
