@@ -1,6 +1,6 @@
 name: moneypulse
 description: SDK Flutter officiel pour Money-Pulse — Orchestrateur de paiements africains
-version: 1.0.0
+version: 2.0.0
 homepage: https://money-pulse.org
 repository: https://github.com/Nocyl/money-pulse-flutter
 
